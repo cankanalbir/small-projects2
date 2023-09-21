@@ -1,4 +1,4 @@
-# Instrcutions:
+# Instructions:
 1. Fork this repository
 2. Start your project and finish it within 1 hour
 3. Push your code to your fork

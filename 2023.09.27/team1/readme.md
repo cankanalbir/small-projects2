@@ -9,7 +9,7 @@ Team members GitHub accounts:
 - [@xxxxxxxxxxxxxxxxxxxx](https://www.github.com/xxxxxxxxxxxxxxxxxxxx)
 
 
-> Aim of the Project and how to run it:
+Aim of the Project and how to run it:
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

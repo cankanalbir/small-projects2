@@ -1,4 +1,4 @@
-Team Name: XXXXXXX
+#Team Name: XXXXXXX
 
 Team members GitHub accounts: 
 - [@xxxxxxxxxxxxxxxxxxxx](https://www.github.com/xxxxxxxxxxxxxxxxxxxx)
